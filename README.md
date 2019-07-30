@@ -1,0 +1,1 @@
+# sonarqube-packer-ami
