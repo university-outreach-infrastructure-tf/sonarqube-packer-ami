@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Create nexus data repository
+# Create sonarqube data repository
 mkdir sonarqube-data
 
 # Change the data directory permission so Docker can access it
